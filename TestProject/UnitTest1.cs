@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Logging;
 using NUnit.Framework;
-using WebAppTest.Controllers;
+using WebApp.Controllers;
 using System.Linq;
 
 namespace TestProject

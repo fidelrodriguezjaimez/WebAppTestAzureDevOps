@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WebAppTest\WebAppTest.csproj" />
+    <ProjectReference Include="..\WebAppTest\WebApp.csproj" />
   </ItemGroup>
 
 </Project>
